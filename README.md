@@ -34,6 +34,9 @@ This dashboard provides actionable insights to help manage and reduce employee t
 5. **Actionable Insights**: Gain recommendations based on data trends to support strategic decision-making.
 
    ## Screenshots
+
+   ![dashboard](https://github.com/user-attachments/assets/00b54311-6f33-4f5a-be05-727e33494163)
+
      
    
 ## Tech Stack
